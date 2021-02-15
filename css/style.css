@@ -1,0 +1,30 @@
+#contact-form {
+	padding: 70px;
+}
+
+.card-deck {
+	margin: 70px;
+}
+
+section {
+	text-align:center;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  body {
+    width: 100%;
+  }
+}
+
+.about {
+	tex-align:center;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	
+}
+
+.about p {
+	text-align:center;
+	font-size: 48pt;
+}
